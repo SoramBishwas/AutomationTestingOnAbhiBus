@@ -1,7 +1,7 @@
 # AutomationTestingOnAbhiBus
 This project automates the process of booking a bus ticket on the Abhibus website using Selenium WebDriver and Cucumber.
 
-##The automation covers the following steps:
+## The automation covers the following steps:
 
 ## Open Abhibus Website: Launches the Firefox browser, maximizes the window, and opens the Abhibus website.
 ## Select Origin and Destination: Automatically inputs the origin (e.g., Bangalore) and destination (e.g., Goa).
