@@ -12,3 +12,6 @@
 ### Proceed to Payment: Proceeds to the payment page, with an option to skip additional offers.
 
 ## This script is written in Java and uses Cucumber for BDD (Behavior Driven Development). It is designed to automate the booking process and ensure smooth user interaction on the website.
+
+# OUTPUT
+![Screenshot (1)](https://github.com/user-attachments/assets/208c702f-108f-4a3e-973a-94f6f683e8e9)
