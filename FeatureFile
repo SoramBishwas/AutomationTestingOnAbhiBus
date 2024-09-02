@@ -1,0 +1,10 @@
+Feature: Bus Ticket Booking on Abhibus
+
+  Scenario: User books a bus ticket
+    Given the user opens the Abhibus website
+    When the user selects "Bangalore" as origin and "Goa" as destination
+    And the user selects "Tomorrow" as the travel date
+    And the user filters by "AC" and "Sleeper" bus types
+    And the user selects seat "4UC"
+    And the user selects the boarding and dropping points
+    Then the user proceeds to payment
