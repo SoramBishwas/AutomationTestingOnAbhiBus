@@ -1,4 +1,4 @@
-# AutomationTestingOnAbhiBus
+# AUTOMATION TESTING ON ABHI_BUS
 ## OVERVIEW OF THE PROJECT 
 #### This project automates the process of booking a bus ticket on the Abhibus website using Selenium WebDriver and Cucumber.
 
